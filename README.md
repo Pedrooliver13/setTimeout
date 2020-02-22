@@ -38,11 +38,11 @@ const input = document.querySelector('input[name="price"]')<br>
  <strong>Replace</strong> = só funciona com strings. ela consegue substituir  tudo.
  
  EX:<br>
-   g == GLOBAL, PEGA TUDO QUE SE ENCAIXAR<br>
+  <p> g == GLOBAL, PEGA TUDO QUE SE ENCAIXAR<br>
    value.replace(/\sequencia/g , "") == REMOVE TUDO QUE ESTIVER NESSA SEQUENCIA EXATA (EX: SE , QUE)<br>
    value.replace(/\D/g , "") == REMOVE TODOS OS CARACTERES<br>
    value.replace(/\d/g , "") == REMOVE TODOS DIGITOS<br>
    value.replace(/\W/g , "") == REMOVE TODOS OS CARACTERES ESPECIAIS COMO => (. , $)  (W maiusculo)<br>
-   value.replace(/\w/g , "") == REMOVE TUDO ,MENOS OS CARACTERES ESPECIAIS (w minusculo)
-=========================================================================================================================================
+   value.replace(/\w/g , "") == REMOVE TUDO ,MENOS OS CARACTERES ESPECIAIS (w minusculo)<p/>
+========================================================================================================================================
 

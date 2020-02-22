@@ -26,8 +26,8 @@ const input = document.querySelector('input[name="price"]')<br>
     por causa do replace... e logo após da executar a função, você
     indica um tempo para executar tudo
   </p>
-==================================================================================================================================
- <strong>Infos adicionais:</strong>
+
+<strong>Infos adicionais:</strong>
  <br>
  <strong>keydown</strong> = é um dom , que pode pegar tudo que está sendo digitado(no caso no input),
  mas , tem de específicar se você quer o value
@@ -44,5 +44,5 @@ const input = document.querySelector('input[name="price"]')<br>
    value.replace(/\d/g , "") == REMOVE TODOS DIGITOS<br>
    value.replace(/\W/g , "") == REMOVE TODOS OS CARACTERES ESPECIAIS COMO => (. , $)  (W maiusculo)<br>
    value.replace(/\w/g , "") == REMOVE TUDO ,MENOS OS CARACTERES ESPECIAIS (w minusculo)<p/>
-====================================================================================================================================
+=====================================================================================================
 

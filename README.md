@@ -1,5 +1,4 @@
-# setTimeout
-<h1>setTimeout</h1>
+<h1 align=center>setTimeout</h1>
 <p>
   é uma função nativa do próprio navegador,
   que executa uma função depois de um determinado
